@@ -1,0 +1,14 @@
+/Users/vasu/Work/NET docker/DockerConsoleApp/bin/Debug/net9.0/DockerConsoleApp
+/Users/vasu/Work/NET docker/DockerConsoleApp/bin/Debug/net9.0/DockerConsoleApp.deps.json
+/Users/vasu/Work/NET docker/DockerConsoleApp/bin/Debug/net9.0/DockerConsoleApp.runtimeconfig.json
+/Users/vasu/Work/NET docker/DockerConsoleApp/bin/Debug/net9.0/DockerConsoleApp.dll
+/Users/vasu/Work/NET docker/DockerConsoleApp/bin/Debug/net9.0/DockerConsoleApp.pdb
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/DockerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/DockerConsoleApp.AssemblyInfoInputs.cache
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/DockerConsoleApp.AssemblyInfo.cs
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/DockerConsoleApp.csproj.CoreCompileInputs.cache
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/DockerConsoleApp.dll
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/refint/DockerConsoleApp.dll
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/DockerConsoleApp.pdb
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/DockerConsoleApp.genruntimeconfig.cache
+/Users/vasu/Work/NET docker/DockerConsoleApp/obj/Debug/net9.0/ref/DockerConsoleApp.dll
